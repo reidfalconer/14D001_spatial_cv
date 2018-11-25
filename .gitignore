@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.tex
+Spatial_Cross_Validation-checkpoint.ipynb
+*.Rproj
