@@ -5,3 +5,5 @@
 *.tex
 Spatial_Cross_Validation-checkpoint.ipynb
 *.Rproj
+*.docx
+*.ipynb_checkpoints
