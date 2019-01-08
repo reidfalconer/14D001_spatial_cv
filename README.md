@@ -16,3 +16,16 @@
 - Hijmans, R.J., 2012. Cross‐validation of species distribution models: removing spatial sorting bias and calibration with a null model. Ecology, 93(3), pp.679-688.
 - Zhang, H. and Wang, Y., 2010. Kriging and cross‐validation for massive spatial data. Environmetrics: The official journal of the International Environmetrics Society, 21(3‐4), pp.290-304.
 - Roberts, D.R., Bahn, V., Ciuti, S., Boyce, M.S., Elith, J., Guillera‐Arroita, G., Hauenstein, S., Lahoz‐Monfort, J.J., Schröder, B., Thuiller, W. and Warton, D.I., 2017. Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. Ecography, 40(8), pp.913-929.
+
+
+**Results:** 
+<p align="center">
+  <img src="./images/plot_1.png" alt="browse_by_tech"
+       width="800">
+</p>
+
+<p align="center">
+  <img src="./images/plot_2.png" alt="browse_by_tech"
+       width="800">
+</p>
+
