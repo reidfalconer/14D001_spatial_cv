@@ -1,9 +1,7 @@
 # Spatial Cross-Validation
 
 **Description:**
-- Cross-validation is a popular computational method used for model assessment and selection. However, with spatial data, many of the independence assumptions behind cross validation break down (due to spatial autocorrelation (SAC)). Therefore, this analysis will conduct an in-depth study of cross-validation methods for model assessment and selection on spatial data. Focusing specifically on:
-    - Spatial cross-validation and bootstrap strategies
-    - Spatial Econometric Models (incorporating a spatial weight matrix within the model specification)
+- Cross-validation is a popular computational method used for model assessment and selection. However, with spatial data, many of the independence assumptions behind cross validation break down (due to spatial autocorrelation (SAC)). Therefore, this analysis will conduct an in-depth study of cross-validation methods for model assessment and selection on spatial data. 
 
 **Course Relevance:**
 - Cross-validation 
