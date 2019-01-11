@@ -14,6 +14,6 @@
        width="800">
 </p>
 
-**Conclusion**
-Spatial data presents unique challenges for cross-validation model assessment and selection. In this notebook, we explore these challenges and study potential solutions using different techniques and multiple simulations. The simulations show
+**Conclusion:**
+- Spatial data presents unique challenges for cross-validation model assessment and selection. In this notebook, we explore these challenges and study potential solutions using different techniques and multiple simulations. The simulations show
 that spatial CV methods do indeed outperform non-spatial CV methods at both *assessment* and *selection* on spatial data. More specifically, the results highlight that spatial CV methods tend to be less over-optimistic about model performance and are also better at selecting the true model instead of an overspecified one. 
